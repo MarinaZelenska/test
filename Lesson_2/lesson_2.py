@@ -30,4 +30,6 @@
 # test = Decimal(0.1) + Decimal(0.1) + Decimal(0.1) - Decimal(0.3)
 # print(test)
 
-print("test_1")
+
+print("test_2")
+
